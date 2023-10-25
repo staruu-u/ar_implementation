@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "481586774396",
+    "firebase_url": "https://aps-ar-wayfinding-default-rtdb.firebaseio.com",
+    "project_id": "aps-ar-wayfinding",
+    "storage_bucket": "aps-ar-wayfinding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481586774396:android:d26160487079b0328064f9",
+        "android_client_info": {
+          "package_name": "com.example.ar_implementation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481586774396-u8o46stfqqrctenbolqsv2goask34v4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6FZHNsnlvFkAnCnXlxwO3yttTplXlD38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481586774396-u8o46stfqqrctenbolqsv2goask34v4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481586774396-5kunmm8c2uqo0t5vab69stat84gmledl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arWayfinding"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481586774396:android:05c6a8826213231c8064f9",
+        "android_client_info": {
+          "package_name": "com.example.ar_wayfinding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481586774396-u8o46stfqqrctenbolqsv2goask34v4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6FZHNsnlvFkAnCnXlxwO3yttTplXlD38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481586774396-u8o46stfqqrctenbolqsv2goask34v4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481586774396-5kunmm8c2uqo0t5vab69stat84gmledl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arWayfinding"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
